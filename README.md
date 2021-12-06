@@ -1,3 +1,3 @@
 Hello there! 
 
-My name is Jan
+My name is Jan.
